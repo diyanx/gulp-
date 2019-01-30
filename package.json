@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp-smushit": "*",
+    "gulp": "3.9.1",
+    "gulp-less": "*",
+    "gulp-concat": "*",
+    "gulp-htmlmin": "*",
+    "gulp-uglify": "*",
+    "gulp-minify-css": "*"
+  }
+}
